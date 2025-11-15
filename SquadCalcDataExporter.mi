@@ -1,0 +1,9 @@
+[Modding.Core]
+Name=SquadCalcDataExporter
+Description=Exports vehicle weapon data to json format for squadcalc
+MD5=
+ID=3559112015
+Version=ca724beabe2cbc9304e9e43596cce5b8
+MajorVersion=17
+ChangeListNumber=514672
+

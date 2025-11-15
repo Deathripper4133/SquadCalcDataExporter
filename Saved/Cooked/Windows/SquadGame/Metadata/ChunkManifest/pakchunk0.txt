@@ -1,0 +1,1 @@
+..\Squad\Plugins\Mods\SquadCalcDataExporter\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SquadCalcDataExporter\Content\Blueprints\DataExporter

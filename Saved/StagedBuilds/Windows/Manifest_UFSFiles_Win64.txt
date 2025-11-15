@@ -1,0 +1,4 @@
+SquadGame/Plugins/Mods/SquadCalcDataExporter/AssetRegistry.bin	2025-11-15T07:23:26.461Z
+SquadGame/Plugins/Mods/SquadCalcDataExporter/Content/Blueprints/DataExporter.uasset	2025-11-15T07:23:26.216Z
+SquadGame/Plugins/Mods/SquadCalcDataExporter/Content/Blueprints/DataExporter.uexp	2025-11-15T07:23:26.216Z
+SquadGame/Plugins/Mods/SquadCalcDataExporter/Content/Paks/Windows/SquadCalcDataExporterSquadGame-Windows.pak	2025-11-15T07:23:31.944Z

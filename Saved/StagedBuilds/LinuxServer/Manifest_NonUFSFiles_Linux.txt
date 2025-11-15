@@ -1,0 +1,1 @@
+SquadGame/Plugins/Mods/SquadCalcDataExporter/SquadCalcDataExporter.uplugin	2025-08-30T16:13:00.049Z
